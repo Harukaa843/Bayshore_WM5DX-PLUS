@@ -1,5 +1,5 @@
-### Warning: Bayshore 5DX+ is a TEST VERSION. Not Yet Complete. But it will have to be fixed in the future by PORSZX.
-su
+### Warning: Bayshore 5DX+ is a TEST VERSION. Not Yet Complete. But it will have to be fixed in the future by Shiroi Kitsu.
+
 ### THIS PROJECT IS CURRENTLY UNSUPPORTED. DO NOT MESSAGE ANYONE FOR HELP
 
 # Bayshore 5DX+
@@ -11,15 +11,17 @@ this repo is based on the original repo (https://github.com/ProjectAsakura/Baysh
  - Same like 5 , 5DX
  - Story Mode Chapter 60 + Get BGM and Meter
  - Time Attack 
- - Online Ghost Versus Battle (coding by PORSZX)
+ - Online Ghost Versus Battle (Send me by **skap** coding by **daiz**)
  - Discarded Vehicle Card to Full Tune Ticket 600hp to 830hp
+ 
+ ## What is not working (Some parts must wait to be fixed in the future by Shiroi Kitsu.)
+ - Transfer from 5 , 5DX
+ - Car Livery , Decal
+ - Maxi Coin
+ - Ghost Trophies
  - Japan Challenge
  - Venue Crown (Crown Battle)
  - Online Champion Match (OCM)
- - Car Livery , Decal
- - Maxi Coin
- ## What is not working (Some parts must wait to be fixed in the future by Shiroi Kitsu.)
- - Ghost Trophies
  - VS Other Region Ghost (VSORG)
   
 ## Credits
