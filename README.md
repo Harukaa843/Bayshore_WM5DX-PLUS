@@ -14,7 +14,7 @@ this repo is based on the original repo (https://github.com/ProjectAsakura/Baysh
  - Online Ghost Versus Battle (coding by PORSZX)
  - Discarded Vehicle Card to Full Tune Ticket 600hp to 830hp
  - Japan Challenge
- - Venue Crown (Crown Battle)
+ - Venue Crown (Crown Battle) cannot Retire press Test button for re match
  - Online Champion Match (OCM)
  - Car Livery , Decal
  - Maxi Coin
