@@ -1,5 +1,4 @@
 ### Warning: Bayshore 5DX+ is a TEST VERSION. Not Yet Complete. But it will have to be fixed in the future by PORSZX.
-su
 ### THIS PROJECT IS CURRENTLY UNSUPPORTED. DO NOT MESSAGE ANYONE FOR HELP
 
 # Bayshore 5DX+
