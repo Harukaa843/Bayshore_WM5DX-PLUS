@@ -1,0 +1,18 @@
+{
+    "placeId": "JPN0123",
+    "shopName": "TEST SERVER AND FRETURE 5DX PLUS",
+    "shopNickname": "TEST SERVER AND FRETURE 5DX PLUS",
+    "regionId": "1",
+    "country": "JPN",
+    "regionName": "JPN",
+    "serverIp": "0.0.0.0",
+    "notices": ["Welcome to TEST SERVER AND FRETURE 5DX PLUS", "ENJOY FOR TEST"],
+    "gameOptions": {
+        "grantFullTuneTicketToNewUsers": 5, 
+        "giftCarsFullyTuned": 0, 
+        "scratchEnabled": 1, 
+        "scratchType": 0, 
+        "giveMeterReward": 0,
+        "newCardsBanned": 0
+    }
+}
